@@ -1,3 +1,6 @@
+![image](https://github.com/Cr0mb/BreadCrypt-File-Encryptor/assets/137664526/d5444a61-922c-442f-92c5-d5ab6d94849b)
+
+
 # Breadcrypt
 Breadcrpyt is a Python script designed for file encryption and decryption using AES encryption. 
 It allows users to encrypt and decrypt files using a passphrase. 
@@ -32,13 +35,7 @@ cd BreadCrypt-File-Encryptor
 3. Run the script with appropriate options:
 ```
 python encrypt.py [-e | -d] [-p FILE_PATH] [PASSWORD]
-
--e or --encrypt: Encrypt the file.
--d or --decrypt: Decrypt the file.
--p or --file_path: File path to be encrypted/decrypted.
-PASSWORD: User-provided passphrase.
-
-// If options are not provided, the script will prompt for necessary information interactively.
 ```
+![image](https://github.com/Cr0mb/BreadCrypt-File-Encryptor/assets/137664526/1662a015-1781-483f-881c-b6ae189c99ce)
 
 Created by Cr0mb.
