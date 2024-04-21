@@ -2,6 +2,9 @@
 
 
 # Breadcrypt
+
+Tutorial: https://youtu.be/jf8mPLi8O48
+
 Breadcrpyt is a Python script designed for file encryption and decryption using AES encryption. 
 It allows users to encrypt and decrypt files using a passphrase. 
 The script utilizes the cryptography library for cryptographic operations and provides a command-line interface for easy usage.
